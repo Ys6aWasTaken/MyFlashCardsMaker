@@ -400,6 +400,5 @@ debug-*.log
 
 ## License and author
 
-Add a `LICENSE` file to tell others what they may do with your code (for example MIT; GitHub can generate one when you create the repository or via **Add file → Create new file → LICENSE**). Until a license is added, the code is "all rights reserved" by default.
-
+ALL RIGHTS RESERVED
 Built by Ahmed Raafat.
